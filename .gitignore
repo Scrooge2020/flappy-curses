@@ -1,0 +1,4 @@
+#Ignore binaries manually
+
+flappy-curses
+*.mp4
